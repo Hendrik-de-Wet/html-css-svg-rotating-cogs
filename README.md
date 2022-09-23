@@ -6,10 +6,3 @@
 
 (Coming Soon...)
 
-## Getting Started
-
-(Coming Soon...)
-
-## Testing
-
-(Coming Soon...)
