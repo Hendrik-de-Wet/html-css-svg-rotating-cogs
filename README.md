@@ -1,4 +1,4 @@
-# Animate aSVG with CSS
+# Animate SVG with CSS
 
 <img src="https://github.com/Hendrik-de-Wet/html-css-svg-rotating-cogs/blob/main/Resources/Images/html-css-svg-rotating-cogs.jpg"/>
 
